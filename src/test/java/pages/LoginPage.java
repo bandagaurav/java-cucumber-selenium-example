@@ -44,4 +44,9 @@ public class LoginPage extends BasePage {
     public boolean getTitleForm() {
         return titleForm.isDisplayed();
     }
+
+    public boolean isSuccessMessageDisplayed() {
+        // Implementation to check if success message is displayed
+        return driver.findElement(By.id("successMessage")).isDisplayed();
+    }
 }
