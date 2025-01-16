@@ -44,4 +44,8 @@ public class LoginPage extends BasePage {
     public boolean getTitleForm() {
         return titleForm.isDisplayed();
     }
+
+    public boolean isPrivateAreaAccessible() {
+        // Implementation to check access to private area
+    }
 }
