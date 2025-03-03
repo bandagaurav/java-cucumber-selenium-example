@@ -1,6 +1,10 @@
 [
   {
-    "step": "I submit username \"admin\" and password \"pw1234\"",
+    "step": "information appears that employee \"Joe Doe\" belongs to department \"Marketing\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "the total \"June\" sales amount is \"32164\"",
     "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
   },
   {
@@ -8,15 +12,11 @@
     "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
   },
   {
-    "step": "information appears that employee \"Joe Doe\" belongs to department \"Marketing\"",
+    "step": "I submit username \"admin\" and password \"pw1234\"",
     "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
   },
   {
     "step": "Admin looks up total sales amount for month \"June\" in year \"2022\"",
-    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
-  },
-  {
-    "step": "the total \"June\" sales amount is \"32164\"",
     "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
   },
   {
