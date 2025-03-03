@@ -1,0 +1,59 @@
+[
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature",
+    "steps": [
+      "I navigate to login page",
+      "I submit username \"admin\" and password \"pw1234\"",
+      "I will be logged into the Admin Dashboard",
+      "Admin searches for employee \"Joe Doe\"",
+      "information appears that employee \"Joe Doe\" belongs to department \"Marketing\"",
+      "Admin looks up total sales amount for month \"June\" in year \"2022\"",
+      "the total \"June\" sales amount is \"32164\""
+    ]
+  },
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ConcurrentWindows.feature",
+    "steps": [
+      "different people went to different sites",
+      "they realize that they forgot what they actually wanted to do there",
+      "they leave the sites again"
+    ]
+  },
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ConvertCelsius.feature",
+    "steps": [
+      "I provide \"30\" degree Celsius",
+      "I click the convert button",
+      "I should see as result \"86\" Fahrenheit"
+    ]
+  },
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\Creditcard.feature",
+    "steps": [
+      "User is on card card entry page",
+      "User <name> enters card number <cc-number> together with expiry date <expiry-date> and cvv <cvv>",
+      "the page will respond with <response> and provide as reason <reason>"
+    ]
+  },
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\Login.feature",
+    "steps": [
+      "I navigate to login page",
+      "I enter following for login",
+      "I click login button",
+      "I should be able to access the protected area",
+      "I navigate to login page",
+      "I enter following values to login",
+      "I click login button",
+      "I should be able to access the protected area"
+    ]
+  },
+  {
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ProvideYourDetails.feature",
+    "steps": [
+      "I navigate to Information about yourself page",
+      "I provide the following details",
+      "I will see message \"Thank you!\""
+    ]
+  }
+]

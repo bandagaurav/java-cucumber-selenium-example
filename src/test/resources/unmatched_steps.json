@@ -1,0 +1,34 @@
+[
+  {
+    "step": "I submit username \"admin\" and password \"pw1234\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "Admin searches for employee \"Joe Doe\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "information appears that employee \"Joe Doe\" belongs to department \"Marketing\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "Admin looks up total sales amount for month \"June\" in year \"2022\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "the total \"June\" sales amount is \"32164\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\AdminPrivileges.feature"
+  },
+  {
+    "step": "I provide \"30\" degree Celsius",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ConvertCelsius.feature"
+  },
+  {
+    "step": "I should see as result \"86\" Fahrenheit",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ConvertCelsius.feature"
+  },
+  {
+    "step": "I will see message \"Thank you!\"",
+    "feature_file": "C:\\Users\\gaurav_mahajan\\Downloads\\Softwares\\java-cucumber-selenium-example-main\\java-cucumber-selenium-example-main\\src\\test\\resources\\features\\ProvideYourDetails.feature"
+  }
+]
